@@ -30,11 +30,3 @@ app.route('/').get((req: Request, res: Response) => {
 app.listen(PORT, () => {
   console.log(`Server run on http://localhost:${PORT}`);
 })
-
-
-
-
-// integration_key = DIVCONSBOU9B2A8V58B7
-// secret_key = niDpsdGEjiyWSMwyqoxIVezdpWJWOnoCqvwQy0a6
-
-// API_Host = api-69d1d840.duosecurity.com
